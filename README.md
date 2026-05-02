@@ -1,2 +1,2 @@
-# Beyondtheshelf-
-Beyondtheshelf - FMCG insights by Anil 
+# beyondtheshelf-
+beyondtheshelf - FMCG insights by Anil 
